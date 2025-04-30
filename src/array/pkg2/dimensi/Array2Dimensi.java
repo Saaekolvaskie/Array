@@ -1,7 +1,7 @@
 package array.pkg2.dimensi;
 
 import javax.swing.JOptionPane;
-
+//FairuziAfiq
 public class Array2Dimensi {
 
     public static void main(String[] args) {
@@ -23,7 +23,7 @@ public class Array2Dimensi {
                 }
             }
             if (ditemukan) break; 
-        }
+        } 
             if (ditemukan) {
             String inputBaru = JOptionPane.showInputDialog("Masukkan angka baru untuk menggantikan " + angkaCari + ":");
             int angkaBaru = Integer.parseInt(inputBaru);
